@@ -13,4 +13,15 @@ daily timelines, busiest day and month, weekly activity map, most active user, w
 ### Beginning. How do I export my conversations? From Where To Obtain Data?
 - The first step is **Data Retrieval & Preprocessing**, that is to **gather the data**. WhatsApp allows you to **export your chats** through a **.txt format**.
 - Go to the respective chat, which you want to export!
+<p align="center">
+<img src="assets/extra/whatsapp-options.jpeg" width=150 align="center">
+</p>
+- Tap on **3 dot options**, click on **More**, and **Export Chat.**
+<p align="center">
+<img src="assets/extra/whatsapp-export-chat.jpeg" width=150>
+</p>
+- I will be Exporting **Without Media.**
 
+<p align="center">
+<img src="assets/extra/whatsapp-media.jpeg " width=200 length=150 align="center">
+</p>

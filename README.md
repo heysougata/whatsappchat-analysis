@@ -16,12 +16,40 @@ daily timelines, busiest day and month, weekly activity map, most active user, w
 <p align="center">
 <img src="assets/extra/whatsapp-options.jpeg" width=150 align="center">
 </p>
+
 - Tap on **3 dot options**, click on **More**, and **Export Chat.**
 <p align="center">
 <img src="assets/extra/whatsapp-export-chat.jpeg" width=150>
 </p>
+
 - I will be Exporting **Without Media.**
 
 <p align="center">
 <img src="assets/extra/whatsapp-media.jpeg " width=200 length=150 align="center">
 </p>
+
+#### NOTE:
+
+- While exporting data, *avoid including media files* because if the number of media files is greater than certain figure then not all the media files are exported.
+
+# *Demo*
+- What my Detective can show you 😲
+
+## The App interface
+
+The app interface look two mood.
+- dark mood👇
+<p align="center">
+<img src="assets/plot/overall black.png"align="center">
+</p>
+
+- light mood👇
+<p align="center">
+<img src="assets/plot/overall white.png"align="center">
+</p>
+
+
+## The Most stat-tastic 
+Here I show the overall stats like **Total Message**, **Total Words**, **Media shared**, **Link Shared**.
+
+

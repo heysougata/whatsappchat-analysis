@@ -51,5 +51,20 @@ The app interface look two mood.
 
 ## The Most stat-tastic 
 Here I show the overall stats like **Total Message**, **Total Words**, **Media shared**, **Link Shared**.
+<p align="center">
+<img src="assets/plot/most stat.png"align="center">
+</p>
+
+## Monthly Recap 
+In this plot show monthly activity 
+<p align="center">
+<img src="assets/plot/monthly.png"align="center">
+</p>
+
+## A Dialy-timeline Diary
+In this graph show Daily activity.
+<p align="center">
+<img src="assets/plot/daily timeline.png"align="center">
+</p>
 
 

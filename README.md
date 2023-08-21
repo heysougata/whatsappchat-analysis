@@ -40,31 +40,31 @@ daily timelines, busiest day and month, weekly activity map, most active user, w
 The app interface look two mood.
 - dark mood👇
 <p align="center">
-<img src="assets/plot/overall black.png"align="center">
+<img src="assets/plot/overall black.png"width=500 length=450,align="center">
 </p>
 
 - light mood👇
 <p align="center">
-<img src="assets/plot/overall white.png"align="center">
+<img src="assets/plot/overall white.png"width=500 length=450,align="center">
 </p>
 
 
 ## The Most stat-tastic 
 Here I show the overall stats like **Total Message**, **Total Words**, **Media shared**, **Link Shared**.
 <p align="center">
-<img src="assets/plot/most stat.png"align="center">
+<img src="assets/plot/most stat.png"width=500 length=450,align="center">
 </p>
 
 ## Monthly Recap 
 In this plot show monthly activity 
 <p align="center">
-<img src="assets/plot/monthly.png"align="center">
+<img src="assets/plot/monthly.png"width=500 length=450,align="center">
 </p>
 
 ## A Dialy-timeline Diary
 In this graph show Daily activity.
 <p align="center">
-<img src="assets/plot/daily timeline.png"align="center">
+<img src="assets/plot/daily timeline.png"width=500 length=450,align="center">
 </p>
 
 

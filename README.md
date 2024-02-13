@@ -67,4 +67,45 @@ In this graph show Daily activity.
 <img src="assets/plot/daily timeline.png"width=500 length=450,align="center">
 </p>
 
+## Activity Map
+In this graph show busiest Day and Month.
+<p align="center">
+<img src="assets/plot/activity map.png"width=500 length=450,align="center">
+</p>
+
+## Weekly Activity Map
+Here we generate a heatmap.We divided 24 hr timefrmae into 1 hr timeframe and a generate a heatmap.
+<p align="center">
+<img src="assets/plot/weekly.png"width=500 length=450,align="center">
+</p>
+
+## Most Active user
+In tis plot show most active user in chat and also the percentage.
+<p align="center">
+<img src="assets/plot/active user.png"width=500 length=450,align="center">
+</p>
+
+## Wordcloud
+In this graph showing wordcloud.
+<p align="center">
+<img src="assets/plot/word cloud.png"width=500 length=450,align="center">
+</p>
+
+## Most Overused Words
+In this graph show most common words.
+<p align="center">
+<img src="assets/plot/overused word.png"width=500 length=450,align="center">
+</p>
+
+## Analyzing Emoji
+Here show the most used emoji and also draw a pie chart .
+<p align="center">
+<img src="assets/plot/emoji.png"width=500 length=450,align="center">
+</p>
+
+
+
+
+
+
 

@@ -104,6 +104,11 @@ Here show the most used emoji and also draw a pie chart .
 </p>
 
 
+## conclusion
+This is version 1.2. In the previous version it worked only one time format but after updated the code it work both time format.
+I also  work some interesting feature of this app . It will update in future .
+
+
 
 
 
